@@ -21,7 +21,7 @@ The majority of testing related metrics decreased in the district summary after 
 
 - Average Math Score decreased from 79.0 to 78.9
 - Average Reading Score was the same at 81.9 both before and after
-- % Passing Math decresed from 75.0 to 74.8
+- % Passing Math decreased from 75.0 to 74.8
 - % Passing Reading decreased from 85.8 to 85.7
 - % Overall Passing decreased from 65.2 to 64.9
 
