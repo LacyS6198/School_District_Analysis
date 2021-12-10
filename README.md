@@ -8,7 +8,7 @@ After the initial analysis, discrepancies within the data for Thomas High School
 The data files used for the analysis are available within the [Resources](https://github.com/LacyS6198/School_District_Analysis/tree/main/Resources) folder.
 
 ### Development Tools
-Anaconda Jupyter Notebook with Pyhon was used for this project. The Pandas and Numpy libraries from Python were also used.
+Anaconda Jupyter Notebook with Python was used for this project. The Pandas and Numpy libraries from Python were also used.
 
 ## Results
 The results of the updated analysis are summarized below. The results include the impact of removing the testing scores (math and reading) from the data for 9th graders at Thomas High School.
