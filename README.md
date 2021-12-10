@@ -1,9 +1,12 @@
 # School District Analysis
 ## Project Overview
+The purpose of this project is to analyze standardized testing results PyCity School District. As part of this project, students' math and reading scores for the schools within the district were analyzed to find average test scores among each school as well as the math, reading and overall passing percentages. Once these values were calculated, the data was further analyzed to compare results per school, budget per student, school type and school size. 
 
 ### Resources
+The data files used for the analysis are available within the [Resources](https://github.com/LacyS6198/School_District_Analysis/tree/main/Resources) folder.
 
 ### Development Tools
+Anaconda Jupyter Notebook with Pyhon was used for this project. The Pandas and Numpy libraries from Python were also used.
 
 ## Results
 
