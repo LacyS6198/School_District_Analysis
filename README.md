@@ -61,7 +61,7 @@ This section details out the effect of replacing 9th graders' scores with "NaN" 
 - Scores by school size
 - Scores by school type
 
-#### Math and reading scores by grade
+#### Math and Reading Scores by Grade
 The only effect on math and reading scores were for Thomas High School's grade 9. In the below screenshots we can see that the updated summary shows "NaN" in the 9th grade data instead of a value. 
 
 | **Updated Math Scores by Grade**  | **Original Math Scores by Grade** |
@@ -74,8 +74,26 @@ The only effect on math and reading scores were for Thomas High School's grade 9
 | ![RO_New](https://user-images.githubusercontent.com/93630042/145620721-27921d01-142f-4482-8f4e-d3cadf5bf3ba.png)  | ![RO_Orig](https://user-images.githubusercontent.com/93630042/145620725-14a4fa38-898d-490c-9679-cb7001c9b9d2.png)  |
 
 
-Scores by school spending
-Scores by school size
-Scores by school type
+#### Scores by School Spending
+There was no change in the scores by school spending when comparing the updated analysis to the Original.
+
+| **Updated School Spending Summary**  | **Original School Spending Summary** |
+| ------------- | ------------- |
+| ![Spending_New](https://user-images.githubusercontent.com/93630042/145621834-59e0b707-572a-4da7-8c65-f6883ed7e27e.png) | ![Spending_Orig](https://user-images.githubusercontent.com/93630042/145621844-ea4f963f-cad9-4bf3-ad8b-382a153f9349.png)  |
+
+
+#### Scores by School Size
+There was no change in the scores by school size when comparing the updated analysis to the Original.
+
+| **Updated School Size Summary**  | **Original School Size Summary** |
+| ------------- | ------------- |
+| ![Size_New](https://user-images.githubusercontent.com/93630042/145622462-b77bd1db-4498-443d-a31b-6b21497535d3.png)  | ![Size_Orig](https://user-images.githubusercontent.com/93630042/145622492-67c479ce-8449-44c9-bd12-a21499003b98.png)  |
+
+#### Scores by School Type
+There was no change in the scores by school type when comparing the updated analysis to the Original.
+
+| **Updated School Type Summary**  | **Original School Type Summary** |
+| ------------- | ------------- |
+| ![Type_New](https://user-images.githubusercontent.com/93630042/145622596-42ab0af1-c6e3-4c97-9391-f7213d32fbdc.png) | ![Type_Orig](https://user-images.githubusercontent.com/93630042/145622615-86e01671-ec52-4314-afa4-c97db2e53e4d.png)  |
 
 ## Summary
