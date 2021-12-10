@@ -7,11 +7,14 @@ After the initial analysis, discrepancies within the data for Thomas High School
 ### Resources
 The data files used for the analysis are available within the [Resources](https://github.com/LacyS6198/School_District_Analysis/tree/main/Resources) folder.
 
+
 ### Development Tools
 Anaconda Jupyter Notebook with Python was used for this project. The Pandas and Numpy libraries from Python were also used.
 
+
 ## Results
 The results of the updated analysis are summarized below. The results include the impact of removing the testing scores (math and reading) from the data for 9th graders at Thomas High School.
+
 
 ### Effect on District Summary
 The majority of testing related metrics decreased in the district summary after the data was adjusted to remove the Thomas High School's 9th graders results. In the images below, we can see the following changes occurred:
@@ -27,6 +30,7 @@ The majority of testing related metrics decreased in the district summary after 
 
 **Original District Summary:**
 ![District_Summary_Orig](https://user-images.githubusercontent.com/93630042/145617321-1bb94225-7b28-467a-9120-d499efe49ee1.png)
+
 
 ### Effect on School Summary
 As part of the analysis, the high (top 5) and low (bottom 5) performing schools were reviewed. The results of this summary were overall the same. The top 5 high and low performing schools remained the same after adjusting the data for Thomas High School's 9th graders' test scores. While the overall results were the same, there was a decrease in Thomas High Schools' overall passing rate, decreasing from 90.948012 in the original analysis to 90.630324 in the updated analysis.
@@ -45,11 +49,20 @@ As part of the analysis, the high (top 5) and low (bottom 5) performing schools 
 
 
 ### Effect on Thomas High School's Comparative Performance
+Thomas High School's comparative performance was not affected by the data adjustments. In comparison to all other schools, Thomas High School was the second highest performing school both in the original and modified analysis. While the overall results were the same, there was a decrease in Thomas High Schools' overall passing rate, decreasing from 90.948012 in the original analysis to 90.630324 in the updated analysis.
+
 
 ### Effect of Replacing 9th Graders' Scores with NaN
+This section details out the effect of replacing 9th graders' scores with "NaN" for Thomas High School. The effect was reviewed on the following metrics:
+
 - Math and reading scores by grade
 - Scores by school spending
 - Scores by school size
 - Scores by school type
+
+#### Math and reading scores by grade
+Scores by school spending
+Scores by school size
+Scores by school type
 
 ## Summary
