@@ -35,6 +35,7 @@ The majority of testing related metrics decreased in the district summary after 
 ### Effect on School Summary
 As part of the analysis, the high (top 5) and low (bottom 5) performing schools were reviewed. The results of this summary were overall the same. The top 5 high and low performing schools remained the same after adjusting the data for Thomas High School's 9th graders' test scores. While the overall results were the same, there was a decrease in Thomas High Schools' overall passing rate, decreasing from 90.948012 in the original analysis to 90.630324 in the updated analysis.
 
+
 **Updated School Summary - Top 5**
 ![SS_Top_New](https://user-images.githubusercontent.com/93630042/145618504-3ad54734-cef6-4ec0-a80c-399554477276.png)
 
@@ -61,6 +62,18 @@ This section details out the effect of replacing 9th graders' scores with "NaN" 
 - Scores by school type
 
 #### Math and reading scores by grade
+The only effect on math and reading scores were for Thomas High School's grade 9. In the below screenshots we can see that the updated summary shows "NaN" in the 9th grade data instead of a value. 
+
+| **Updated Math Scores by Grade**  | **Original Math Scores by Grade** |
+| ------------- | ------------- |
+| ![MO_New](https://user-images.githubusercontent.com/93630042/145620701-e52b214d-4b6e-4f3d-a21a-0e6bd298c997.png)  | ![MO_Orig](https://user-images.githubusercontent.com/93630042/145620709-ee12eba1-1681-43d4-9531-8f2947c817c2.png)  |
+
+
+| **Updated Reading Scores by Grade**  | **Original Reading Scores by Grade** |
+| ------------- | ------------- |
+| ![RO_New](https://user-images.githubusercontent.com/93630042/145620721-27921d01-142f-4482-8f4e-d3cadf5bf3ba.png)  | ![RO_Orig](https://user-images.githubusercontent.com/93630042/145620725-14a4fa38-898d-490c-9679-cb7001c9b9d2.png)  |
+
+
 Scores by school spending
 Scores by school size
 Scores by school type
