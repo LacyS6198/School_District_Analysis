@@ -29,6 +29,20 @@ The majority of testing related metrics decreased in the district summary after 
 ![District_Summary_Orig](https://user-images.githubusercontent.com/93630042/145617321-1bb94225-7b28-467a-9120-d499efe49ee1.png)
 
 ### Effect on School Summary
+As part of the analysis, the high (top 5) and low (bottom 5) performing schools were reviewed. The results of this summary were overall the same. The top 5 high and low performing schools remained the same after adjusting the data for Thomas High School's 9th graders' test scores. While the overall results were the same, there was a decrease in Thomas High Schools' overall passing rate, decreasing from 90.948012 in the original analysis to 90.630324 in the updated analysis.
+
+**Updated School Summary - Top 5**
+![SS_Top_New](https://user-images.githubusercontent.com/93630042/145618504-3ad54734-cef6-4ec0-a80c-399554477276.png)
+
+**Original School Summary - Top 5**
+![SS_Top_Orig](https://user-images.githubusercontent.com/93630042/145618518-ee8ac255-0274-40b5-8418-018befc28fbb.png)
+
+**Updated School Summary - Bottom 5**
+![SS_Bottom_New](https://user-images.githubusercontent.com/93630042/145618476-c0f17ec4-0480-45bd-8445-2c90300f2dda.png)
+
+**Original School Summary - Bottom 5**
+![SS_Bottom_Orig](https://user-images.githubusercontent.com/93630042/145618487-da82f509-174b-4fb6-b803-7b86cae76eb1.png)
+
 
 ### Effect on Thomas High School's Comparative Performance
 
