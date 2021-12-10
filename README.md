@@ -59,7 +59,6 @@ This section details out the effect of replacing 9th graders' scores with "NaN" 
 - Scores by school spending
 - Scores by school size
 - Scores by school type
-<br/>
 
 #### Math and Reading Scores by Grade
 The only effect on math and reading scores were for Thomas High School's grade 9. In the below screenshots we can see that the updated summary shows "NaN" in the 9th grade data instead of a value. 
@@ -96,7 +95,7 @@ There was no change in the scores by school type when comparing the updated anal
 | **Updated School Type Summary**  | **Original School Type Summary** |
 | ------------- | ------------- |
 | ![Type_New](https://user-images.githubusercontent.com/93630042/145622596-42ab0af1-c6e3-4c97-9391-f7213d32fbdc.png) | ![Type_Orig](https://user-images.githubusercontent.com/93630042/145622615-86e01671-ec52-4314-afa4-c97db2e53e4d.png)  |
-<br/><br/>
+<br/>
 
 ## Summary
 The below summarizes the key metric changes caused by the data manipulation that was performed to remove Thomas High School's 9th graders' math and reading scores. Overall, there was a minimum impact to results, both for the overall school district as well as Thomas High School itself. 
