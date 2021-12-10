@@ -14,6 +14,19 @@ Anaconda Jupyter Notebook with Pyhon was used for this project. The Pandas and N
 The results of the updated analysis are summarized below. The results include the impact of removing the testing scores (math and reading) from the data for 9th graders at Thomas High School.
 
 ### Effect on District Summary
+The majority of testing related metrics decreased in the district summary after the data was adjusted to remove the Thomas High School's 9th graders results. In the images below, we can see the following changes occurred:
+
+- Average Math Score decreased from 79.0 to 78.9
+- Average Reading Score was the same at 81.9 both before and after
+- % Passing Math decresed from 75.0 to 74.8
+- % Passing Reading decreased from 85.8 to 85.7
+- % Overall Passing decreased from 65.2 to 64.9
+
+**Updated District Summary:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![District_Summary_New](https://user-images.githubusercontent.com/93630042/145617310-af71a42b-d5ea-428f-901c-28cc53586846.png)
+
+**Original District Summary:**
+![District_Summary_Orig](https://user-images.githubusercontent.com/93630042/145617321-1bb94225-7b28-467a-9120-d499efe49ee1.png)
 
 ### Effect on School Summary
 
